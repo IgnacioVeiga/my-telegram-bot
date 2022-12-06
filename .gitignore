@@ -1,0 +1,4 @@
+.github/workflows/action.yml
+build/*
+node_modules/*
+.env
